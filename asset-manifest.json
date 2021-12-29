@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProLinkD/static/css/main.8bda0e9a.chunk.css",
+    "main.js": "/ProLinkD/static/js/main.12adeb28.chunk.js",
+    "main.js.map": "/ProLinkD/static/js/main.12adeb28.chunk.js.map",
+    "runtime-main.js": "/ProLinkD/static/js/runtime-main.6cbfea02.js",
+    "runtime-main.js.map": "/ProLinkD/static/js/runtime-main.6cbfea02.js.map",
+    "static/js/2.caacf5ad.chunk.js": "/ProLinkD/static/js/2.caacf5ad.chunk.js",
+    "static/js/2.caacf5ad.chunk.js.map": "/ProLinkD/static/js/2.caacf5ad.chunk.js.map",
+    "static/js/3.c8b43845.chunk.js": "/ProLinkD/static/js/3.c8b43845.chunk.js",
+    "static/js/3.c8b43845.chunk.js.map": "/ProLinkD/static/js/3.c8b43845.chunk.js.map",
+    "index.html": "/ProLinkD/index.html",
+    "static/css/main.8bda0e9a.chunk.css.map": "/ProLinkD/static/css/main.8bda0e9a.chunk.css.map",
+    "static/js/2.caacf5ad.chunk.js.LICENSE.txt": "/ProLinkD/static/js/2.caacf5ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cbfea02.js",
+    "static/js/2.caacf5ad.chunk.js",
+    "static/css/main.8bda0e9a.chunk.css",
+    "static/js/main.12adeb28.chunk.js"
+  ]
+}
